@@ -1,0 +1,7 @@
+dist
+__pycache__
+build
+venv
+*.ico
+*.bat
+*.spec
