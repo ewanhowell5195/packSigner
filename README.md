@@ -7,7 +7,7 @@ The message is added in 2 separate ways:
 - Metadata
 - Pixel Encoding
 
-# Metatata
+# Metadata
 This method adds the message to the metadata of the textures. 
 
 With the metadata, there is no character limit (within reason).
