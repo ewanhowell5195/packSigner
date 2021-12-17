@@ -22,9 +22,9 @@ Since this method is distructive to the original textures, a copy of the pack is
 With pixel encoding, there is a character limit based on the texture resolution. Here are some examples of the character limits:
 
 > 8x8: 20
-16x16: 92
-32x32: 379
-64x64: 1530
+> 16x16: 92
+> 32x32: 379
+> 64x64: 1530
 
 If the provided message is too long for the texture resolution, the end is automatically trimmed off.
 
