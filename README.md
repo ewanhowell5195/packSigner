@@ -17,7 +17,7 @@ With this method it easy to view the message, but also easy to remove. To view t
 # Pixel Encoding
 This method encodes the message into the physical pixels of the texture by making minor adjustments to the colours. The end result looks almost identical to the input where you will not be able to see a difference without using a colour picker.
 
-Since this method is distructive to the original textures, a copy of the pack is made and edited instead of the original.
+Since this method is destructive to the original textures, a copy of the pack is made and edited instead of the original.
 
 With pixel encoding, there is a character limit based on the texture resolution. Here are some examples of the character limits:
 
